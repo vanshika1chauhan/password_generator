@@ -9,7 +9,9 @@ This is a Python project that generates strong and secure random passwords using
 - User can choose password length
 
 ## How to Run
-python filename.py
+```bash
+python password_generator.py
+```
 
 ## Technologies Used
 - Python
